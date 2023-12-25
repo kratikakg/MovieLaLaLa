@@ -1,4 +1,6 @@
-# MovieLaLaLa | Javascript, ReactJS, API
+# MovieLaLaLa
+Using Javascript, ReactJS, API
+
 -MovieLaLaLa is a user-friendly web application that leverages the OMDB API service to provide a
 convenient movie search and information platform.
 
