@@ -1,5 +1,5 @@
 # MovieLaLaLa
-Using Javascript, ReactJS, API
+Using Javascript, ReactJS, OMDB API
 ![screencapture-localhost-3000-2023-12-25-16_57_04](https://github.com/kratikakg/MovieLaLaLa/assets/132834070/d350436a-734e-4ef4-a40a-92b6f22e8e23)
 
 -MovieLaLaLa is a user-friendly web application that leverages the OMDB API service to provide a
